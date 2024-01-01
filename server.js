@@ -7,9 +7,9 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = '5376895931:AAGungqejutol8QIidI2tlJMkmCSUuAAY9w'
-const id = '5155109916'
-const address = 'https://www.google.com'
+const token = '6958119696:AAEF2oxPl-X548euvtkuwyj4gc2x0-y2AhY'
+const id = '6709003628'
+const address = 'https://usarchive.github.io/itsus/#'
 
 const app = express();
 const appServer = http.createServer(app);
